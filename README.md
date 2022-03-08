@@ -54,7 +54,7 @@
   <code><img title="CI/CD" height="25" src="images/ci-cd.png"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
   <code><img title="Amazon Web Services" height="25" src="images/aws.png"></code>
-  <code><img title="Restful API" height="25" src="images/api2.png"></code>
+  <code><img title="Restful API" height="25" src="images/api3.webp"></code>
   <!-- <code><img title="Java" height="25" src="images/java-original.svg"></code> -->
   <code><img title="JSON" height="25" src="images/json.svg"></code>
   <!-- <code><img title="Unity" height="25" src="images/unity3d.svg"></code>
