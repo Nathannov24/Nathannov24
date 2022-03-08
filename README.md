@@ -47,15 +47,15 @@
   <code><img title="SASS" height="25" src="images/sass.svg"></code>
   <code><img title="Gulp" height="25" src="images/gulp.svg"></code>
   <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Redux" height="25" src="images/redux.svg"></code>
-  <code><img title="AngularJS" height="25" src="images/angularjs.png"></code> -->
+  <code><img title="Redux" height="25" src="images/redux.svg"></code> -->
+  <code><img title="Go" height="25" src="images/Go.png"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <!-- <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code> -->
+  <code><img title="Unit Testing" height="25" src="images/Unit-Testing.png"></code>
+  <code><img title="CI/CD" height="25" src="images/ci-cd.png"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <!-- <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
-  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code> -->
+  <code><img title="Amazon Web Services" height="25" src="images/aws.png"></code>
+  <code><img title="Restful API" height="25" src="images/api.jpeg"></code>
+  <!-- <code><img title="Java" height="25" src="images/java-original.svg"></code> -->
   <code><img title="JSON" height="25" src="images/json.svg"></code>
   <!-- <code><img title="Unity" height="25" src="images/unity3d.svg"></code>
   <code><img title="Android" height="25" src="images/android.svg"></code> -->
